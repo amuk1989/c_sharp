@@ -1,0 +1,6 @@
+C:\GB\С#_1\DZ1\DZ1\DZ1\bin\Debug\DZ1.exe.config
+C:\GB\С#_1\DZ1\DZ1\DZ1\bin\Debug\DZ1.exe
+C:\GB\С#_1\DZ1\DZ1\DZ1\bin\Debug\DZ1.pdb
+C:\GB\С#_1\DZ1\DZ1\DZ1\obj\Debug\DZ1.csprojAssemblyReference.cache
+C:\GB\С#_1\DZ1\DZ1\DZ1\obj\Debug\DZ1.exe
+C:\GB\С#_1\DZ1\DZ1\DZ1\obj\Debug\DZ1.pdb
